@@ -3,7 +3,7 @@ mediapipe를 사용하여 python으로 이미지, 동영상, 웹캡에서 face l
 
 ## 개발 환경
 - **python 버전**: (현재) 3.10
-    - 본 프로젝트는 Python 3.10 환경에서 정상 동작을 확인하였다. Python 3.13 환경에서도 가상환경을 새로 구성하여 실행을 시도 중에 있다.
+    - 본 프로젝트는 Python 3.10 환경에서 정상 동작을 확인하였다. Python 3.13.11 환경에서도 가상환경을 새로 구성하여 실행을 시도 중에 있다.
 - **Libraries**: OpenCV
 - **Framework**: MediaPipe
 
